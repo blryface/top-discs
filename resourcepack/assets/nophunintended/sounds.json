@@ -1,0 +1,18 @@
+{
+  "music_disc.npi_blasphemy": {
+    "sounds": [
+      {
+        "name": "nophunintended:blasphemy",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.npi_drown": {
+    "sounds": [
+      {
+        "name": "nophunintended:drown",
+        "stream": true
+      }
+    ]
+  }
+}

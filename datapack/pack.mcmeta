@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Twenty One Pilots discs for Minecraft.\n[DATAPACK]",
+        "min_format": [88, 0],
+		"max_format": [88, 0]
+    }
+}
