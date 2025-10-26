@@ -58,7 +58,7 @@
   "music_disc.neverchange": {
     "sounds": [
       {
-        "name": "nophunintended:nophunintended",
+        "name": "nophunintended:neverchange",
         "stream": true
       }
     ]
