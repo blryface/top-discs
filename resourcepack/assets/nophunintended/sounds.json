@@ -1,5 +1,5 @@
 {
-  "music_disc.npi_blasphemy": {
+  "music_disc.blasphemy": {
     "sounds": [
       {
         "name": "nophunintended:blasphemy",
@@ -7,10 +7,218 @@
       }
     ]
   },
-  "music_disc.npi_drown": {
+  "music_disc.drown": {
     "sounds": [
       {
         "name": "nophunintended:drown",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.holeintheground": {
+    "sounds": [
+      {
+        "name": "nophunintended:holeintheground",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.save": {
+    "sounds": [
+      {
+        "name": "nophunintended:save",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.takenbysleep": {
+    "sounds": [
+      {
+        "name": "nophunintended:takenbysleep",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.iwanttoknow": {
+    "sounds": [
+      {
+        "name": "nophunintended:iwanttoknow",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.justlikeyesterday": {
+    "sounds": [
+      {
+        "name": "nophunintended:justlikeyesterday",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.neverchange": {
+    "sounds": [
+      {
+        "name": "nophunintended:nophunintended",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.provemewrong": {
+    "sounds": [
+      {
+        "name": "nophunintended:provemewrong",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.realizethatitsgone": {
+    "sounds": [
+      {
+        "name": "nophunintended:realizethatitsgone",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.tonight": {
+    "sounds": [
+      {
+        "name": "nophunintended:tonight",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.fallingtoo": {
+    "sounds": [
+      {
+        "name": "nophunintended:fallingtoo",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.whisper": {
+    "sounds": [
+      {
+        "name": "nophunintended:whisper",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.tbsaga": {
+    "sounds": [
+      {
+        "name": "nophunintended:tbsaga",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.wheredidwego": {
+    "sounds": [
+      {
+        "name": "nophunintended:wheredidwego",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.hearmenow": {
+    "sounds": [
+      {
+        "name": "nophunintended:hearmenow",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.jarofhearts": {
+    "sounds": [
+      {
+        "name": "nophunintended:jarofhearts",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.two": {
+    "sounds": [
+      {
+        "name": "nophunintended:two",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.timetosaygoodbye": {
+    "sounds": [
+      {
+        "name": "nophunintended:timetosaygoodbye",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.canthelpfallinginlove": {
+    "sounds": [
+      {
+        "name": "nophunintended:canthelpfallinginlove",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.lovely": {
+    "sounds": [
+      {
+        "name": "nophunintended:lovely",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.emmanuel": {
+    "sounds": [
+      {
+        "name": "nophunintended:emmanuel",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.dollhouse": {
+    "sounds": [
+      {
+        "name": "nophunintended:dollhouse",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.line": {
+    "sounds": [
+      {
+        "name": "nophunintended:line",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.always": {
+    "sounds": [
+      {
+        "name": "nophunintended:always",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.save2": {
+    "sounds": [
+      {
+        "name": "nophunintended:save2",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.goner": {
+    "sounds": [
+      {
+        "name": "nophunintended:goner",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.trees": {
+    "sounds": [
+      {
+        "name": "nophunintended:trees",
         "stream": true
       }
     ]
